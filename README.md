@@ -13,7 +13,6 @@ This study tries to implement a sentiment analysis on a group of Twitter posts c
 * Jupyter Notebook == 4.2.1
 * Scikit-Learn == 0.19.0
 * Gensim == 2.3.0
-* NLTK == 3.2.4
 * Pandas == 0.19.2
 * Matplotlib == 2.0.0
 * Seaborn == 0.8.0
